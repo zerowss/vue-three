@@ -1,4 +1,5 @@
 # vue-three
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -24,3 +25,6 @@ yarn run test
 ```
 yarn run lint
 ```
+=======
+vue+three.js入门体验
+>>>>>>> f0687538fe326b36767fbd9c906a95afe1c31210
