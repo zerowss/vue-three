@@ -11,7 +11,7 @@
     "@tweenjs/tween.js": "^17.3.0",
     "core-js": "^2.6.5",
     "dat.gui": "^0.7.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "three": "^0.104.0",
     "three-css2drender": "^1.0.0",
     "three-obj-mtl-loader": "^1.0.3",
